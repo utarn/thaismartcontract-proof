@@ -1,3 +1,6 @@
+# Deprecated
+[โปรแกรมตัวใหม่สนับสนุนการเกษียนข้อความลงเอกสารสำหรับหนังสือเวียนในราชการ](https://github.com/utarn/TSCBlockchainVerifier)
+
 # thaismartcontract-proof
 โปรแกรมตรวจสอบความถูกต้องสมบูรณ์ของเอกสาร โดยเปรียบเทียบค่าแฮชด้วยอัลกอริธึม Keccak-256
 
